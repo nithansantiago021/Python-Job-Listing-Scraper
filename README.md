@@ -18,8 +18,8 @@ Make sure Python 3.10+ is installed on your system.
 Clone the repository and install the required Python libraries:
 ```BASH
 # clone the repository
-git clone
-cd 
+git clone https://github.com/nithansantiago021/Python-Job-Listing-Scraper.git
+cd Python-Job-Listing-Scraper
 
 # Install dependencies
 pip install requests bs4
