@@ -2,7 +2,7 @@
 A demonstration of a light weight Python web scraper that extracts job postings from https://realpython.github.io/fake-jobs/ test website and exports the structured data into a CSV file.
 
 ## Project Details
-Project URL: https://roadmap.sh/projects/job-listings-scraper
+https://roadmap.sh/projects/job-listings-scraper
 
 ## Tech stack
 - **Requests**: To perform HTTP GET requests and fetch raw HTML web pages.
